@@ -2,6 +2,7 @@ package br.com.semestre.model;
 
 public class Mouse {
 	public String cor;
+<<<<<<< HEAD
 	public double tamanho; 
 	public String marca;
 	public double dpi = 800.0;  
@@ -26,3 +27,8 @@ public class Mouse {
 		}
 	}
 }
+=======
+	public String tamanho;
+	public String marca;
+}
+>>>>>>> b568aa77338d91c5adfcdc32eea6d8e183be5daa
